@@ -1,0 +1,44 @@
+[
+    {
+        "imgPath": "./images/img1.png",
+        "title": "To Cook Or Not To Cook",
+        "deployedPath": "https://to-cook-or-not-to-cook.herokuapp.com/",
+        "githubPath": "https://github.com/NilesHachmeister/to-cook-or-not-to-cook-server",
+        "tech": "MySql/API calls"
+    },
+    {
+        "imgPath": "./images/img2.png",
+        "title": "Tech Blog",
+        "deployedPath": "https://niles-hachmeister-tech-blog.herokuapp.com/",
+        "githubPath": "https://github.com/NilesHachmeister/Tech-Blog-Week-14",
+        "tech": "MySql/Auth"
+    },
+    {
+        "imgPath": "./images/img3.png",
+        "title": "Social Network API",
+        "deployedPath": "https://github.com/NilesHachmeister/social-network-api-week-18",
+        "githubPath": "https://github.com/NilesHachmeister/social-network-api-week-18",
+        "tech": "MongoDB"
+    },
+    {
+        "imgPath": "./images/img4.png",
+        "title": "Note Taker App",
+        "deployedPath": "https://niles-hachmeister-note-taker.herokuapp.com/",
+        "githubPath": "https://github.com/NilesHachmeister/Note-taker-app-week-11",
+        "tech": "MySql"
+    },
+    {
+        "imgPath": "./images/img5.png",
+        "title": "Weather Dashboard",
+        "deployedPath": "https://nileshachmeister.github.io/week6homework-weather-dashboard/",
+        "githubPath": "https://github.com/NilesHachmeister/week6homework-weather-dashboard",
+        "tech": "API calls/Bootstrap"
+    },
+    {
+        "imgPath": "./images/img6.png",
+        "title": "E-comerce Backend",
+        "deployedPath": "https://github.com/NilesHachmeister/E-Commerce-Back-End-Week-13",
+        "githubPath": "https://github.com/NilesHachmeister/E-Commerce-Back-End-Week-13",
+        "tech": "MySql"
+    }
+]

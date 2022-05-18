@@ -1,0 +1,50 @@
+#portfolio {
+    background: rgb(225, 227, 225);
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100%;
+}
+
+.portfolio-card {
+    width: 46%;
+    margin: 3%;
+    position: relative;
+    box-shadow: 0 1px 1px rgba(80, 151, 90, 0.25);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.portfolio-img {
+    width: 100%;
+    height: 100%;
+}
+
+.portfolio-title {
+    position: absolute;
+    left: 5px;
+    top: 5%;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.github-icon {
+    margin-left: 20px;
+    color: rgb(17, 17, 17);
+    opacity: 0;
+}
+
+.deployed-link {
+    color: rgb(31, 95, 17);
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.hover-active {
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.portfolio-card:hover {
+    box-shadow: 0 15px 15px rgba(254, 254, 254, 0.8);
+    opacity: 1;
+}
