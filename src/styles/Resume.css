@@ -1,0 +1,21 @@
+#resume {
+    background: rgb(217, 220, 222);
+ 
+    margin: 0;
+    min-width: 100%;
+    padding: 20px;
+}
+
+
+.list-item {
+    text-align: left;
+    list-style-type: circle;
+}
+
+.list-group {
+    list-style-type: circle;
+}
+
+#resume-link {
+    color: black;
+}
