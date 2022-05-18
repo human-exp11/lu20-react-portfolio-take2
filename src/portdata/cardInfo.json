@@ -1,0 +1,44 @@
+[
+    {
+        "imgPath": "./assets/tcontc.jpeg",
+        "title": "To Cook Or Not To Cook",
+        "deployedPath": "https://to-cook-or-not-to-cook.herokuapp.com/",
+        "githubPath": "https://github.com/NilesHachmeister/to-cook-or-not-to-cook-server",  
+        "tech": "MySql/API calls"
+    },
+    {
+        "imgPath": "./assets/employee.jpg",
+        "title": "Employee Management System",
+        "deployedPath": "https://github.com/human-exp11/lu12-sql-employee",
+        "githubPath": "https://github.com/human-exp11/lu12-sql-employee",
+        "tech": "MySql"
+    },
+    {
+        "imgPath": "./assets/notetaker.jpeg",
+        "title": "Note Taker",
+        "deployedPath": "https://lu11-express-note.herokuapp.com/notes",
+        "githubPath": "https://github.com/human-exp11/lu11-express-note",
+        "tech": "Express"
+    },
+    {
+        "imgPath": "./assets/regex.jpg",
+        "title": "Regex Tutorial",
+        "deployedPath": "https://gist.github.com/human-exp11/c80103897c1323932fe5dedd46a691f8#file-lu17-gist-regex",
+        "githubPath": "https://gist.github.com/human-exp11/c80103897c1323932fe5dedd46a691f8#file-lu17-gist-regex",
+        "tech": "GitHub Gist"
+    },
+    {
+        "imgPath": "./assets/weather.png",
+        "title": "Weather Dashboard",
+        "deployedPath": "https://human-exp11.github.io/w6-ssapi-weather/",
+        "githubPath": "https://github.com/human-exp11/w6-ssapi-weather",
+        "tech": "APIs Bootstrap"
+    },
+    {
+        "imgPath": "./assets/SS.png",
+        "title": "Social Network API",
+        "deployedPath": " https://github.com/human-exp11/lu18-sn-api",
+        "githubPath": " https://github.com/human-exp11/lu18-sn-api",
+        "tech": "MongoDB"
+    }
+]

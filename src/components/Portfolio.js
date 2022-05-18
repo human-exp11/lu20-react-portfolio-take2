@@ -1,16 +1,16 @@
 import React from 'react';
 import '../styles/Portfolio.css';
-import projectData from '../portdata/projectInfo.json';
+import cardInfo from '../portdata/cardInfo.json';
 
 function Portfolio({ hoverActive, setHoverActive }) {
 
   return (
       <div id="portfolio" className="container">
 
-          {projectData.map((element, index) => {
+          {cardInfo.map((element, index) => {
               return (
                   <div key={index} className="portfolio-card" onMouseEnter={() => setHoverActive(index)} onMouseLeave={() => setHoverActive(10)}>
-                      <img src={element.imgPath} className="portfolio-img" />
+                      <img src={element.imgPath} className="portfolio-img" alt="port"/>
                       <div className="portfolio-title">
                           <a className={hoverActive === index ? "deployed-link hover-active" : "deployed-link"} href={element.deployedPath}>
                               {element.title}

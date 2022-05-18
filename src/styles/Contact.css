@@ -1,0 +1,18 @@
+#contact-form {
+    background: rgb(206, 230, 241);
+    margin: 20px, 20px;
+    min-width: 100%;
+    padding: 20px;
+    text-align: right;
+    
+}
+
+.form-values {
+    width: 75%;
+}
+
+label,
+#alert {
+    font-weight: 500;
+    font-size: 1.2rem;
+}
